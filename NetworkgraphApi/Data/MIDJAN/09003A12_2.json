@@ -1,0 +1,3048 @@
+{
+    "nodelist": [
+        [
+            {
+                "layerid": 0,
+                "nodeid": 0,
+                "name": "09003A12",
+                "ip": "10.210.103.6",
+                "type": "PTN 6900-8A",
+                "neighborids": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14
+                ]
+            }
+        ],
+        [
+            {
+                "layerid": 1,
+                "nodeid": 1,
+                "name": "09003A11",
+                "ip": "10.210.103.5",
+                "type": "PTN 6900-8A",
+                "neighborids": [
+                    0,
+                    15,
+                    16,
+                    17,
+                    11,
+                    18,
+                    19,
+                    20,
+                    6,
+                    21,
+                    3,
+                    22
+                ]
+            },
+            {
+                "layerid": 1,
+                "nodeid": 2,
+                "name": "09002A11",
+                "ip": "10.210.102.5",
+                "type": "PTN 6900-8A",
+                "neighborids": [
+                    23,
+                    0,
+                    24,
+                    25,
+                    26,
+                    27,
+                    28,
+                    29,
+                    30,
+                    31,
+                    32,
+                    33,
+                    34,
+                    35,
+                    36,
+                    37,
+                    38,
+                    39,
+                    40
+                ]
+            },
+            {
+                "layerid": 1,
+                "nodeid": 3,
+                "name": "09003G21",
+                "ip": "10.210.97.115",
+                "type": "ATN 910C-G",
+                "neighborids": [
+                    1,
+                    0
+                ]
+            },
+            {
+                "layerid": 1,
+                "nodeid": 4,
+                "name": "04996C21",
+                "ip": "10.210.97.72",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    0
+                ]
+            },
+            {
+                "layerid": 1,
+                "nodeid": 5,
+                "name": "02325C21",
+                "ip": "10.210.97.126",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    0
+                ]
+            },
+            {
+                "layerid": 1,
+                "nodeid": 6,
+                "name": "09003B14",
+                "ip": "10.210.103.12",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    0,
+                    1
+                ]
+            },
+            {
+                "layerid": 1,
+                "nodeid": 7,
+                "name": "04203B21",
+                "ip": "10.210.97.34",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    0
+                ]
+            },
+            {
+                "layerid": 1,
+                "nodeid": 8,
+                "name": "04102B21",
+                "ip": "10.210.97.36",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    0,
+                    41
+                ]
+            },
+            {
+                "layerid": 1,
+                "nodeid": 9,
+                "name": "05050C21",
+                "ip": "10.210.97.51",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    0
+                ]
+            },
+            {
+                "layerid": 1,
+                "nodeid": 10,
+                "name": "05064C21",
+                "ip": "10.210.97.42",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    0,
+                    42
+                ]
+            },
+            {
+                "layerid": 1,
+                "nodeid": 11,
+                "name": "09003B13",
+                "ip": "10.210.103.11",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    1,
+                    0
+                ]
+            },
+            {
+                "layerid": 1,
+                "nodeid": 12,
+                "name": "05243C21",
+                "ip": "10.210.97.52",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    0,
+                    43
+                ]
+            },
+            {
+                "layerid": 1,
+                "nodeid": 13,
+                "name": "05699C21",
+                "ip": "10.210.97.37",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    44,
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50,
+                    51,
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    0,
+                    59,
+                    60,
+                    61,
+                    62,
+                    63,
+                    64
+                ]
+            },
+            {
+                "layerid": 1,
+                "nodeid": 14,
+                "name": "04114C21",
+                "ip": "10.210.97.123",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    39,
+                    0
+                ]
+            }
+        ],
+        [
+            {
+                "layerid": 2,
+                "nodeid": 15,
+                "name": "09004A12",
+                "ip": "10.210.104.6",
+                "type": "PTN 6900-8A",
+                "neighborids": [
+                    65,
+                    66,
+                    1,
+                    67,
+                    68,
+                    69,
+                    70,
+                    71,
+                    72,
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80,
+                    81,
+                    82,
+                    83,
+                    84,
+                    85,
+                    86,
+                    87,
+                    88,
+                    89,
+                    90
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 16,
+                "name": "05728C21",
+                "ip": "10.210.97.66",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    1
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 17,
+                "name": "04083B21",
+                "ip": "10.210.97.32",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    1
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 18,
+                "name": "04079C21",
+                "ip": "10.210.97.74",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    1
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 19,
+                "name": "04122C21",
+                "ip": "10.210.97.80",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    1
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 20,
+                "name": "04150C21",
+                "ip": "10.210.97.45",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    1
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 21,
+                "name": "04106C21",
+                "ip": "10.210.97.95",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    1
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 22,
+                "name": "05700C21",
+                "ip": "10.210.97.90",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    1
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 23,
+                "name": "09002A12",
+                "ip": "10.210.102.6",
+                "type": "PTN 6900-8A",
+                "neighborids": [
+                    2,
+                    91,
+                    92,
+                    38,
+                    93,
+                    94,
+                    35,
+                    32,
+                    95
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 24,
+                "name": "03002C21",
+                "ip": "10.210.97.85",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    2
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 25,
+                "name": "02952C21",
+                "ip": "10.210.97.99",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    96,
+                    2
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 26,
+                "name": "03865C21",
+                "ip": "10.210.97.101",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    97,
+                    2
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 27,
+                "name": "03091C21",
+                "ip": "10.210.97.102",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    98,
+                    2
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 28,
+                "name": "02922C21",
+                "ip": "10.210.97.103",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    98,
+                    2
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 29,
+                "name": "03096C21",
+                "ip": "10.210.97.105",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    99,
+                    2
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 30,
+                "name": "02995C21",
+                "ip": "10.210.97.107",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    100,
+                    2
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 31,
+                "name": "03813C21",
+                "ip": "10.210.97.109",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    101,
+                    2
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 32,
+                "name": "09002G21",
+                "ip": "10.210.97.114",
+                "type": "ATN 910C-G",
+                "neighborids": [
+                    2,
+                    23
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 33,
+                "name": "03034C21",
+                "ip": "10.210.97.94",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    2
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 34,
+                "name": "02016C21",
+                "ip": "10.210.97.124",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    2
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 35,
+                "name": "09002B13",
+                "ip": "10.210.102.11",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    2,
+                    23
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 36,
+                "name": "03040C21",
+                "ip": "10.210.97.60",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    102,
+                    2
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 37,
+                "name": "02074C21",
+                "ip": "10.210.97.58",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    81,
+                    2
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 38,
+                "name": "09002B14",
+                "ip": "10.210.102.12",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    23,
+                    2
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 39,
+                "name": "04057C21",
+                "ip": "10.210.97.122",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    2,
+                    14
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 40,
+                "name": "03143C21",
+                "ip": "10.210.97.40",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    98,
+                    2
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 41,
+                "name": "05084B21",
+                "ip": "10.210.97.35",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    8,
+                    103,
+                    65
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 42,
+                "name": "05119C21",
+                "ip": "10.210.97.41",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    10,
+                    65
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 43,
+                "name": "01875B21",
+                "ip": "10.210.97.21",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    12,
+                    65
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 44,
+                "name": "05014T8601",
+                "ip": "10.210.36.156",
+                "type": "infinera_8609",
+                "neighborids": [
+                    13
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 45,
+                "name": "05018T8601",
+                "ip": "10.210.36.157",
+                "type": "infinera_8609",
+                "neighborids": [
+                    13
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 46,
+                "name": "05101T8601",
+                "ip": "10.210.118.5",
+                "type": "infinera_8609",
+                "neighborids": [
+                    13
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 47,
+                "name": "05099T8601",
+                "ip": "10.210.36.155",
+                "type": "infinera_8609",
+                "neighborids": [
+                    13
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 48,
+                "name": "05002T8601",
+                "ip": "10.210.118.38",
+                "type": "infinera_8609",
+                "neighborids": [
+                    13
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 49,
+                "name": "05094T8601",
+                "ip": "10.210.36.143",
+                "type": "infinera_8609",
+                "neighborids": [
+                    13
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 50,
+                "name": "05414T8601",
+                "ip": "10.210.36.144",
+                "type": "infinera_8609",
+                "neighborids": [
+                    13
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 51,
+                "name": "05090T8601",
+                "ip": "10.210.36.145",
+                "type": "infinera_8609",
+                "neighborids": [
+                    13
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 52,
+                "name": "05417T8601",
+                "ip": "10.210.118.44",
+                "type": "infinera_8602",
+                "neighborids": [
+                    13
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 53,
+                "name": "05088T8601",
+                "ip": "10.210.118.70",
+                "type": "infinera_8602",
+                "neighborids": [
+                    13
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 54,
+                "name": "05095T8601",
+                "ip": "10.210.36.154",
+                "type": "infinera_8602",
+                "neighborids": [
+                    13
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 55,
+                "name": "05013T8601",
+                "ip": "10.210.36.152",
+                "type": "infinera_8609",
+                "neighborids": [
+                    13
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 56,
+                "name": "05016G31",
+                "ip": "10.210.97.146",
+                "type": "ATN 910C-G",
+                "neighborids": [
+                    64,
+                    13
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 57,
+                "name": "05003G31",
+                "ip": "10.210.97.147",
+                "type": "ATN 910C-G",
+                "neighborids": [
+                    64,
+                    13
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 58,
+                "name": "05011G31",
+                "ip": "10.210.97.173",
+                "type": "ATN 910C-G",
+                "neighborids": [
+                    13
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 59,
+                "name": "05087G31",
+                "ip": "10.210.97.189",
+                "type": "ATN 910C-G",
+                "neighborids": [
+                    103,
+                    13
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 60,
+                "name": "09952T8601",
+                "ip": "10.210.36.150",
+                "type": "infinera_8609",
+                "neighborids": [
+                    13
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 61,
+                "name": "05006G31",
+                "ip": "10.210.97.148",
+                "type": "ATN 910C-G",
+                "neighborids": [
+                    13,
+                    64
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 62,
+                "name": "05001G31",
+                "ip": "10.210.97.174",
+                "type": "ATN 910C-G",
+                "neighborids": [
+                    13,
+                    64
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 63,
+                "name": "05740G31",
+                "ip": "10.210.97.175",
+                "type": "ATN 910C-G",
+                "neighborids": [
+                    13,
+                    64
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 64,
+                "name": "05708C21",
+                "ip": "10.210.97.38",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    61,
+                    62,
+                    63,
+                    13,
+                    57,
+                    104,
+                    56
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 65,
+                "name": "09004A11",
+                "ip": "10.210.104.5",
+                "type": "PTN 6900-8A",
+                "neighborids": [
+                    15,
+                    98,
+                    68,
+                    67,
+                    69,
+                    105,
+                    82,
+                    106,
+                    41,
+                    42,
+                    73,
+                    43,
+                    104
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 66,
+                "name": "01432C21",
+                "ip": "10.210.97.68",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    15
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 67,
+                "name": "09004BR2",
+                "ip": "10.210.104.8",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    15,
+                    65
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 68,
+                "name": "09004BR1",
+                "ip": "10.210.104.7",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    65,
+                    15
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 69,
+                "name": "09004G21",
+                "ip": "10.210.97.116",
+                "type": "ATN 910C-G",
+                "neighborids": [
+                    65,
+                    15
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 70,
+                "name": "01598C21",
+                "ip": "10.210.97.121",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    15,
+                    107
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 71,
+                "name": "08013C21",
+                "ip": "10.210.96.3",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    91,
+                    15
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 72,
+                "name": "05115C21",
+                "ip": "10.210.97.53",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    15
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 73,
+                "name": "09004B14",
+                "ip": "10.210.104.12",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    65,
+                    15
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 74,
+                "name": "01382C21",
+                "ip": "10.210.97.62",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    15,
+                    108
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 75,
+                "name": "01044C21",
+                "ip": "10.210.97.112",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    15
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 76,
+                "name": "01148B21",
+                "ip": "10.210.97.22",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    15
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 77,
+                "name": "01056B21",
+                "ip": "10.210.97.12",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    15
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 78,
+                "name": "01070B21",
+                "ip": "10.210.97.3",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    15
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 79,
+                "name": "01024B21",
+                "ip": "10.210.97.8",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    15,
+                    109
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 80,
+                "name": "05110C21",
+                "ip": "10.210.97.86",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    15
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 81,
+                "name": "04030C21",
+                "ip": "10.210.97.59",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    15,
+                    37
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 82,
+                "name": "09004B13",
+                "ip": "10.210.104.11",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    15,
+                    65
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 83,
+                "name": "06189G21",
+                "ip": "10.210.97.64",
+                "type": "ATN 910C-G",
+                "neighborids": [
+                    15,
+                    110
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 84,
+                "name": "01071C21",
+                "ip": "10.210.97.71",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    15,
+                    91
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 85,
+                "name": "01281B21",
+                "ip": "10.210.97.18",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    15,
+                    111
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 86,
+                "name": "01517B21",
+                "ip": "10.210.97.5",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    15
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 87,
+                "name": "01201B21",
+                "ip": "10.210.97.27",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    15,
+                    112
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 88,
+                "name": "01112B21",
+                "ip": "10.210.97.30",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    15,
+                    113
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 89,
+                "name": "01299B21",
+                "ip": "10.210.97.19",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    15,
+                    114
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 90,
+                "name": "05036C21",
+                "ip": "10.210.97.97",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    15
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 91,
+                "name": "09001A11",
+                "ip": "10.210.101.5",
+                "type": "PTN 6900-8A",
+                "neighborids": [
+                    98,
+                    112,
+                    23,
+                    115,
+                    116,
+                    84,
+                    117,
+                    114,
+                    7,
+                    71,
+                    118,
+                    119,
+                    108,
+                    120,
+                    121,
+                    109,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    111,
+                    107,
+                    113,
+                    110
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 92,
+                "name": "02800C21",
+                "ip": "10.210.97.77",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    23
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 93,
+                "name": "09903C21",
+                "ip": "10.210.97.78",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    23
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 94,
+                "name": "04012C21",
+                "ip": "10.210.97.44",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    23
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 95,
+                "name": "02065C21",
+                "ip": "10.210.97.119",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    23
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 96,
+                "name": "02913C21",
+                "ip": "10.210.97.98",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    98,
+                    25
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 97,
+                "name": "03170C21",
+                "ip": "10.210.97.100",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    98,
+                    26
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 98,
+                "name": "09001A12",
+                "ip": "10.210.101.6",
+                "type": "PTN 6900-8A",
+                "neighborids": [
+                    91,
+                    65,
+                    116,
+                    115,
+                    117,
+                    40,
+                    125,
+                    97,
+                    27,
+                    28,
+                    96,
+                    127,
+                    119,
+                    102,
+                    99,
+                    100,
+                    101,
+                    128
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 99,
+                "name": "03283C21",
+                "ip": "10.210.97.104",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    98,
+                    29
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 100,
+                "name": "02735C21",
+                "ip": "10.210.97.106",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    98,
+                    30
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 101,
+                "name": "02513C21",
+                "ip": "10.210.97.108",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    98,
+                    31
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 102,
+                "name": "03055C21",
+                "ip": "10.210.97.61",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    36,
+                    98
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 103,
+                "name": "05086G31",
+                "ip": "10.210.97.188",
+                "type": "ATN 910C-G",
+                "neighborids": [
+                    41,
+                    59
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 104,
+                "name": "05183C21",
+                "ip": "10.210.97.46",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    64,
+                    65
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 105,
+                "name": "05072C21",
+                "ip": "10.210.97.48",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    65
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 106,
+                "name": "01251C21",
+                "ip": "10.210.97.43",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    65
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 107,
+                "name": "01160C21",
+                "ip": "10.210.97.120",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    70,
+                    91
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 108,
+                "name": "01169C21",
+                "ip": "10.210.97.63",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    74,
+                    91
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 109,
+                "name": "01207B21",
+                "ip": "10.210.97.9",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    79,
+                    91
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 110,
+                "name": "06190G21",
+                "ip": "10.210.97.65",
+                "type": "ATN 910C-G",
+                "neighborids": [
+                    83,
+                    91
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 111,
+                "name": "01784B21",
+                "ip": "10.210.97.17",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    85,
+                    91
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 112,
+                "name": "01332B21",
+                "ip": "10.210.97.28",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    91,
+                    87
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 113,
+                "name": "01783B21",
+                "ip": "10.210.97.29",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    88,
+                    91
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 114,
+                "name": "01882B21",
+                "ip": "10.210.97.20",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    89,
+                    91
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 115,
+                "name": "09001BR1",
+                "ip": "10.210.101.7",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    91,
+                    98
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 116,
+                "name": "09001BR2",
+                "ip": "10.210.101.8",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    98,
+                    91
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 117,
+                "name": "09001G21",
+                "ip": "10.210.97.113",
+                "type": "ATN 910C-G",
+                "neighborids": [
+                    91,
+                    98
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 118,
+                "name": "01256C21",
+                "ip": "10.210.97.117",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    91
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 119,
+                "name": "09001B13",
+                "ip": "10.210.101.11",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    98,
+                    91
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 120,
+                "name": "01307B21",
+                "ip": "10.210.97.11",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    91
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 121,
+                "name": "01276B21",
+                "ip": "10.210.97.2",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    91
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 122,
+                "name": "01110B21",
+                "ip": "10.210.97.25",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    91
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 123,
+                "name": "01096C21",
+                "ip": "10.210.97.70",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    91
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 124,
+                "name": "01186C21",
+                "ip": "10.210.97.57",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    91
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 125,
+                "name": "09001B14",
+                "ip": "10.210.101.12",
+                "type": "PTN 6900-2-M8A",
+                "neighborids": [
+                    91,
+                    98
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 126,
+                "name": "01459C21",
+                "ip": "10.210.97.110",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    91
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 127,
+                "name": "03122C21",
+                "ip": "10.210.97.91",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    98
+                ]
+            },
+            {
+                "layerid": 2,
+                "nodeid": 128,
+                "name": "03111C21",
+                "ip": "10.210.97.81",
+                "type": "PTN 6900-2-M8C",
+                "neighborids": [
+                    98
+                ]
+            }
+        ]
+    ],
+    "connectionlist": [
+        {
+            "connectionid": 1,
+            "startnodeid": 0,
+            "endnodeid": 3,
+            "description": "09003A12-xe1/0/0_To_09003G21-xe0/2/4 -- 09003G21-xe0/2/4_To_09003A12-xe4/0/0",
+            "bandwidth": "10G - 10G",
+            "duplexity": "Full-dpx",
+            "media": "fiber - fiber",
+            "subnet": "10.218.98.164/30",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "startnodeid": 0,
+            "endnodeid": 4,
+            "description": "09003A12-xe1/0/1_To_04996C21-xe0/4/0 -- 04996C21-xe0/4/0_To_09003A11-xe6/0/4",
+            "bandwidth": "10G - 10G",
+            "duplexity": "Full-dpx",
+            "media": "fiber - fiber",
+            "subnet": "10.218.96.168/30",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 2,
+            "startnodeid": 0,
+            "endnodeid": 2,
+            "description": "09003A12-xe1/0/10_To_09002A11-xe1/0/10 -- 09002A11-xe1/0/10_To_09003A12-xe1/0/10",
+            "bandwidth": "10G - 10G",
+            "duplexity": "Full-dpx",
+            "media": "fiber - fiber",
+            "subnet": "",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 3,
+            "startnodeid": 0,
+            "endnodeid": 2,
+            "description": "09003A12-xe1/0/11_To_09002A11-xe1/0/11 -- 09002A11-xe1/0/11_To_09003A12-xe1/0/11",
+            "bandwidth": "10G - 10G",
+            "duplexity": "Full-dpx",
+            "media": "fiber - fiber",
+            "subnet": "",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 2,
+            "startnodeid": 0,
+            "endnodeid": 1,
+            "description": "09003A12-xe1/0/12_To_09003A11-xe1/0/12 -- 09003A11-xe1/0/12_To_09003A12-xe1/0/12",
+            "bandwidth": "10G - 10G",
+            "duplexity": "Full-dpx",
+            "media": "fiber - fiber",
+            "subnet": "",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 3,
+            "startnodeid": 0,
+            "endnodeid": 1,
+            "description": "09003A12-xe1/0/13_To_09003A11-xe1/0/13 -- 09003A11-xe1/0/13_To_09003A12-xe1/0/13",
+            "bandwidth": "10G - 10G",
+            "duplexity": "Full-dpx",
+            "media": "fiber - fiber",
+            "subnet": "",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 4,
+            "startnodeid": 0,
+            "endnodeid": 1,
+            "description": "09003A12-xe2/0/0_To_09003A11-xe2/0/0 -- 09003A11-xe2/0/0_To_09003A12-xe2/0/0",
+            "bandwidth": "10G - 10G",
+            "duplexity": "Full-dpx",
+            "media": "fiber - fiber",
+            "subnet": "",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 5,
+            "startnodeid": 0,
+            "endnodeid": 1,
+            "description": "09003A12-xe2/0/1_To_09003A11-xe2/0/1 -- 09003A11-xe2/0/1_To_09003A12-xe2/0/1",
+            "bandwidth": "10G - 10G",
+            "duplexity": "Full-dpx",
+            "media": "fiber - fiber",
+            "subnet": "",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 4,
+            "startnodeid": 0,
+            "endnodeid": 2,
+            "description": "09003A12-xe3/0/0_To_09002A11-xe3/0/0 -- 09002A11-xe3/0/0_To_09003A12-xe3/0/0",
+            "bandwidth": "10G - 10G",
+            "duplexity": "Full-dpx",
+            "media": "fiber - fiber",
+            "subnet": "",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 5,
+            "startnodeid": 0,
+            "endnodeid": 2,
+            "description": "09003A12-xe3/0/1_To_09002A11-xe3/0/1 -- 09002A11-xe3/0/1_To_09003A12-xe3/0/1",
+            "bandwidth": "10G - 10G",
+            "duplexity": "Full-dpx",
+            "media": "fiber - fiber",
+            "subnet": "",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "startnodeid": 0,
+            "endnodeid": 5,
+            "description": "09003A12-xe6/0/0_To_02325C21-xe0/4/0 -- 02325C21-xe0/4/0_To_09003A12-xe6/0/0",
+            "bandwidth": "10G - 10G",
+            "duplexity": "Full-dpx",
+            "media": "fiber - fiber",
+            "subnet": "10.218.98.228/30",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "startnodeid": 0,
+            "endnodeid": 6,
+            "description": "09003A12-xe6/0/1_To_09003B14-xe0/3/0 -- 09003B14-xe0/3/0_To_09003A12-xe6/0/1",
+            "bandwidth": "10G - 10G",
+            "duplexity": "Full-dpx",
+            "media": "fiber - fiber",
+            "subnet": "10.218.3.12/30",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "startnodeid": 0,
+            "endnodeid": 7,
+            "description": "09003A12-xe6/0/2_To_04203B21-xe0/3/0 -- 04203B21-xe0/3/0_To_09003A12-xe6/0/2",
+            "bandwidth": "10G - 10G",
+            "duplexity": "Full-dpx",
+            "media": "fiber - fiber",
+            "subnet": "10.218.97.204/30",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "startnodeid": 0,
+            "endnodeid": 8,
+            "description": "09003A12-xe6/0/3_To_04102B21-xe0/3/0 -- 04102B21-xe0/3/0_To_09003A12-xe6/0/3",
+            "bandwidth": "10G - 10G",
+            "duplexity": "Full-dpx",
+            "media": "fiber - fiber",
+            "subnet": "10.218.97.216/30",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "startnodeid": 0,
+            "endnodeid": 9,
+            "description": "09003A12-xe6/0/4_To_05050C21-xe0/3/0 -- 05050C21-xe0/3/0_To_09003A12-xe6/0/4",
+            "bandwidth": "10G - 10G",
+            "duplexity": "Full-dpx",
+            "media": "fiber - fiber",
+            "subnet": "10.218.96.52/30",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "startnodeid": 0,
+            "endnodeid": 10,
+            "description": "09003A12-xe7/0/0_To_05064C21-xe0/3/0 -- 05064C21-xe0/3/0_To_09003A12-xe7/0/0",
+            "bandwidth": "10G - 10G",
+            "duplexity": "Full-dpx",
+            "media": "fiber - fiber",
+            "subnet": "10.218.97.236/30",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "startnodeid": 0,
+            "endnodeid": 11,
+            "description": "09003A12-xe7/0/1_To_09003B13-xe0/4/0 -- 09003B13-xe0/4/0_To_09003A12-xe7/0/1",
+            "bandwidth": "10G - 10G",
+            "duplexity": "Full-dpx",
+            "media": "fiber - fiber",
+            "subnet": "10.218.3.8/30",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "startnodeid": 0,
+            "endnodeid": 12,
+            "description": "09003A12-xe7/0/2_To_05243C21-xe0/3/0 -- 05243C21-xe0/3/0_To_09003A12-xe7/0/2",
+            "bandwidth": "10G - 10G",
+            "duplexity": "Full-dpx",
+            "media": "fiber - fiber",
+            "subnet": "10.218.97.168/30",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "startnodeid": 0,
+            "endnodeid": 13,
+            "description": "09003A12-xe7/0/3_To_05699C21-xe0/3/0 -- 05699C21-xe0/3/0_To_09003A12-xe7/0/3",
+            "bandwidth": "10G - 10G",
+            "duplexity": "Full-dpx",
+            "media": "fiber - fiber",
+            "subnet": "10.218.97.248/30",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "startnodeid": 0,
+            "endnodeid": 14,
+            "description": "09003A12-xe7/0/4_To_04114C21-xe0/4/0 -- 04114C21-xe0/4/0_To_09003A12-xe7/0/4",
+            "bandwidth": "10G - 10G",
+            "duplexity": "Full-dpx",
+            "media": "fiber - fiber",
+            "subnet": "10.218.98.212/30",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "startnodeid": 12,
+            "endnodeid": 0,
+            "description": "09003A11-xe7/0/0_To_04150C21-xe0/4/0 -- ",
+            "bandwidth": "10G - ",
+            "duplexity": "Dup?",
+            "media": "fiber - ",
+            "subnet": "10.218.97.252/30",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        }
+    ],
+    "portlist": [
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 0,
+            "portaggregation": "GigabitEthernet1/0/12 GigabitEthernet1/0/13 GigabitEthernet2/0/0 GigabitEthernet2/0/1",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "E",
+            "portdescription": "09003A12-Eth-Trunk1_To_09003A11-Eth-Trunk1",
+            "portdata": "Eth-Trunk1",
+            "portip": "10.218.0.18/30",
+            "portmac": "3c78-435c-c3e1",
+            "portvlan": "",
+            "neinodeid": 1,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 0,
+            "portaggregation": "GigabitEthernet1/0/10 GigabitEthernet1/0/11 GigabitEthernet3/0/0 GigabitEthernet3/0/1",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "E",
+            "portdescription": "09003A12-Eth-Trunk2_To_09002A11-Eth-Trunk2",
+            "portdata": "Eth-Trunk2",
+            "portip": "10.218.0.14/30",
+            "portmac": "3c78-435c-c3e1",
+            "portvlan": "",
+            "neinodeid": 2,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 0,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "E",
+            "portdescription": "09003A12-xe1/0/0_To_09003G21-xe0/2/4",
+            "portdata": "GigabitEthernet1/0/0",
+            "portip": "10.218.98.166/30",
+            "portmac": "f4a4-d60b-fe81",
+            "portvlan": "",
+            "neinodeid": 3,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 0,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "E",
+            "portdescription": "09003A12-xe1/0/1_To_04996C21-xe0/4/0",
+            "portdata": "GigabitEthernet1/0/1",
+            "portip": "10.218.96.169/30",
+            "portmac": "f4a4-d60b-fe82",
+            "portvlan": "",
+            "neinodeid": 4,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 2,
+            "portid": "P1",
+            "parentnodeid": 0,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "N",
+            "portdescription": "09003A12-xe1/0/10_To_09002A11-xe1/0/10",
+            "portdata": "GigabitEthernet1/0/10",
+            "portip": "",
+            "portmac": "f4a4-d60b-fe8b",
+            "portvlan": "",
+            "neinodeid": 2,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 3,
+            "portid": "P1",
+            "parentnodeid": 0,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "S",
+            "portdescription": "09003A12-xe1/0/11_To_09002A11-xe1/0/11",
+            "portdata": "GigabitEthernet1/0/11",
+            "portip": "",
+            "portmac": "f4a4-d60b-fe8c",
+            "portvlan": "",
+            "neinodeid": 2,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 2,
+            "portid": "P1",
+            "parentnodeid": 0,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "N",
+            "portdescription": "09003A12-xe1/0/12_To_09003A11-xe1/0/12",
+            "portdata": "GigabitEthernet1/0/12",
+            "portip": "",
+            "portmac": "f4a4-d60b-fe8d",
+            "portvlan": "",
+            "neinodeid": 1,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 3,
+            "portid": "P1",
+            "parentnodeid": 0,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "S",
+            "portdescription": "09003A12-xe1/0/13_To_09003A11-xe1/0/13",
+            "portdata": "GigabitEthernet1/0/13",
+            "portip": "",
+            "portmac": "f4a4-d60b-fe8e",
+            "portvlan": "",
+            "neinodeid": 1,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 4,
+            "portid": "P2",
+            "parentnodeid": 0,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "E",
+            "portdescription": "09003A12-xe2/0/0_To_09003A11-xe2/0/0",
+            "portdata": "GigabitEthernet2/0/0",
+            "portip": "",
+            "portmac": "f898-efa3-f423",
+            "portvlan": "",
+            "neinodeid": 1,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 5,
+            "portid": "P3",
+            "parentnodeid": 0,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "N",
+            "portdescription": "09003A12-xe2/0/1_To_09003A11-xe2/0/1",
+            "portdata": "GigabitEthernet2/0/1",
+            "portip": "",
+            "portmac": "f898-efa3-f424",
+            "portvlan": "",
+            "neinodeid": 1,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 4,
+            "portid": "P2",
+            "parentnodeid": 0,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "E",
+            "portdescription": "09003A12-xe3/0/0_To_09002A11-xe3/0/0",
+            "portdata": "GigabitEthernet3/0/0",
+            "portip": "",
+            "portmac": "3ce8-241b-3ebc",
+            "portvlan": "",
+            "neinodeid": 2,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 5,
+            "portid": "P3",
+            "parentnodeid": 0,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "N",
+            "portdescription": "09003A12-xe3/0/1_To_09002A11-xe3/0/1",
+            "portdata": "GigabitEthernet3/0/1",
+            "portip": "",
+            "portmac": "3ce8-241b-3ebd",
+            "portvlan": "",
+            "neinodeid": 2,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 0,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "E",
+            "portdescription": "09003A12-xe6/0/0_To_02325C21-xe0/4/0",
+            "portdata": "GigabitEthernet6/0/0",
+            "portip": "10.218.98.230/30",
+            "portmac": "b4fb-f98a-9b67",
+            "portvlan": "",
+            "neinodeid": 5,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 0,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "E",
+            "portdescription": "09003A12-xe6/0/1_To_09003B14-xe0/3/0",
+            "portdata": "GigabitEthernet6/0/1",
+            "portip": "10.218.3.13/30",
+            "portmac": "b4fb-f98a-9b68",
+            "portvlan": "",
+            "neinodeid": 6,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 0,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "E",
+            "portdescription": "09003A12-xe6/0/2_To_04203B21-xe0/3/0",
+            "portdata": "GigabitEthernet6/0/2",
+            "portip": "10.218.97.205/30",
+            "portmac": "b4fb-f98a-9b69",
+            "portvlan": "",
+            "neinodeid": 7,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 0,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "E",
+            "portdescription": "09003A12-xe6/0/3_To_04102B21-xe0/3/0",
+            "portdata": "GigabitEthernet6/0/3",
+            "portip": "10.218.97.217/30",
+            "portmac": "b4fb-f98a-9b6a",
+            "portvlan": "",
+            "neinodeid": 8,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 0,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "E",
+            "portdescription": "09003A12-xe6/0/4_To_05050C21-xe0/3/0",
+            "portdata": "GigabitEthernet6/0/4",
+            "portip": "10.218.96.53/30",
+            "portmac": "b4fb-f98a-9b6b",
+            "portvlan": "",
+            "neinodeid": 9,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 0,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "E",
+            "portdescription": "09003A12-xe7/0/0_To_05064C21-xe0/3/0",
+            "portdata": "GigabitEthernet7/0/0",
+            "portip": "10.218.97.237/30",
+            "portmac": "b4fb-f98a-9bbc",
+            "portvlan": "",
+            "neinodeid": 10,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 0,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "E",
+            "portdescription": "09003A12-xe7/0/1_To_09003B13-xe0/4/0",
+            "portdata": "GigabitEthernet7/0/1",
+            "portip": "10.218.3.9/30",
+            "portmac": "b4fb-f98a-9bbd",
+            "portvlan": "",
+            "neinodeid": 11,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 0,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "E",
+            "portdescription": "09003A12-xe7/0/2_To_05243C21-xe0/3/0",
+            "portdata": "GigabitEthernet7/0/2",
+            "portip": "10.218.97.169/30",
+            "portmac": "b4fb-f98a-9bbe",
+            "portvlan": "",
+            "neinodeid": 12,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 0,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "E",
+            "portdescription": "09003A12-xe7/0/3_To_05699C21-xe0/3/0",
+            "portdata": "GigabitEthernet7/0/3",
+            "portip": "10.218.97.249/30",
+            "portmac": "b4fb-f98a-9bbf",
+            "portvlan": "",
+            "neinodeid": 13,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 0,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "E",
+            "portdescription": "09003A12-xe7/0/4_To_04114C21-xe0/4/0",
+            "portdata": "GigabitEthernet7/0/4",
+            "portip": "10.218.98.214/30",
+            "portmac": "b4fb-f98a-9bc0",
+            "portvlan": "",
+            "neinodeid": 14,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 1,
+            "portaggregation": "GigabitEthernet1/0/12 GigabitEthernet1/0/13 GigabitEthernet2/0/0 GigabitEthernet2/0/1",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "W",
+            "portdescription": "09003A11-Eth-Trunk1_To_09003A12-Eth-Trunk1",
+            "portdata": "Eth-Trunk1",
+            "portip": "10.218.0.17/30",
+            "portmac": "3c78-4328-a5ce",
+            "portvlan": "",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 2,
+            "portid": "P1",
+            "parentnodeid": 1,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "N",
+            "portdescription": "09003A11-xe1/0/12_To_09003A12-xe1/0/12",
+            "portdata": "GigabitEthernet1/0/12",
+            "portip": "",
+            "portmac": "f4a4-d60b-fc35",
+            "portvlan": "",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 3,
+            "portid": "P1",
+            "parentnodeid": 1,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "S",
+            "portdescription": "09003A11-xe1/0/13_To_09003A12-xe1/0/13",
+            "portdata": "GigabitEthernet1/0/13",
+            "portip": "",
+            "portmac": "f4a4-d60b-fc36",
+            "portvlan": "",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 4,
+            "portid": "P2",
+            "parentnodeid": 1,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "W",
+            "portdescription": "09003A11-xe2/0/0_To_09003A12-xe2/0/0",
+            "portdata": "GigabitEthernet2/0/0",
+            "portip": "",
+            "portmac": "f898-efa3-f429",
+            "portvlan": "",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 5,
+            "portid": "P3",
+            "parentnodeid": 1,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "N",
+            "portdescription": "09003A11-xe2/0/1_To_09003A12-xe2/0/1",
+            "portdata": "GigabitEthernet2/0/1",
+            "portip": "",
+            "portmac": "f898-efa3-f42a",
+            "portvlan": "",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 2,
+            "portaggregation": "GigabitEthernet1/0/10 GigabitEthernet1/0/11 GigabitEthernet3/0/0 GigabitEthernet3/0/1",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "W",
+            "portdescription": "09002A11-Eth-Trunk2_To_09003A12-Eth-Trunk2",
+            "portdata": "Eth-Trunk2",
+            "portip": "10.218.0.13/30",
+            "portmac": "3c78-4328-a70e",
+            "portvlan": "",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 2,
+            "portid": "P1",
+            "parentnodeid": 2,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "N",
+            "portdescription": "09002A11-xe1/0/10_To_09003A12-xe1/0/10",
+            "portdata": "GigabitEthernet1/0/10",
+            "portip": "",
+            "portmac": "f4a4-d60c-01ab",
+            "portvlan": "",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 3,
+            "portid": "P1",
+            "parentnodeid": 2,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "S",
+            "portdescription": "09002A11-xe1/0/11_To_09003A12-xe1/0/11",
+            "portdata": "GigabitEthernet1/0/11",
+            "portip": "",
+            "portmac": "f4a4-d60c-01ac",
+            "portvlan": "",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 4,
+            "portid": "P2",
+            "parentnodeid": 2,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "W",
+            "portdescription": "09002A11-xe3/0/0_To_09003A12-xe3/0/0",
+            "portdata": "GigabitEthernet3/0/0",
+            "portip": "",
+            "portmac": "3ce8-24ce-4e07",
+            "portvlan": "",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 5,
+            "portid": "P3",
+            "parentnodeid": 2,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "N",
+            "portdescription": "09002A11-xe3/0/1_To_09003A12-xe3/0/1",
+            "portdata": "GigabitEthernet3/0/1",
+            "portip": "",
+            "portmac": "3ce8-24ce-4e08",
+            "portvlan": "",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 3,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "W",
+            "portdescription": "09003G21-xe0/2/4_To_09003A12-xe4/0/0",
+            "portdata": "GigabitEthernet0/2/4",
+            "portip": "10.218.98.165/30",
+            "portmac": "30fd-6507-64cf",
+            "portvlan": "",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 4,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "W",
+            "portdescription": "04996C21-xe0/4/0_To_09003A11-xe6/0/4",
+            "portdata": "GigabitEthernet0/4/0",
+            "portip": "10.218.96.170/30",
+            "portmac": "70fd-45e6-265c",
+            "portvlan": "",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 5,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "W",
+            "portdescription": "02325C21-xe0/4/0_To_09003A12-xe6/0/0",
+            "portdata": "GigabitEthernet0/4/0",
+            "portip": "10.218.98.229/30",
+            "portmac": "30e9-8ea3-59f9",
+            "portvlan": "",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 6,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "W",
+            "portdescription": "09003B14-xe0/3/0_To_09003A12-xe6/0/1",
+            "portdata": "GigabitEthernet0/3/0",
+            "portip": "10.218.3.14/30",
+            "portmac": "b443-26ab-16e4",
+            "portvlan": "",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 7,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "W",
+            "portdescription": "04203B21-xe0/3/0_To_09003A12-xe6/0/2",
+            "portdata": "GigabitEthernet0/3/0",
+            "portip": "10.218.97.206/30",
+            "portmac": "9c52-f853-d50e",
+            "portvlan": "",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 8,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "W",
+            "portdescription": "04102B21-xe0/3/0_To_09003A12-xe6/0/3",
+            "portdata": "GigabitEthernet0/3/0",
+            "portip": "10.218.97.218/30",
+            "portmac": "9c52-f853-d4f6",
+            "portvlan": "",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 9,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "W",
+            "portdescription": "05050C21-xe0/3/0_To_09003A12-xe6/0/4",
+            "portdata": "GigabitEthernet0/3/0",
+            "portip": "10.218.96.54/30",
+            "portmac": "70fd-45e6-2dfa",
+            "portvlan": "",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 10,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "W",
+            "portdescription": "05064C21-xe0/3/0_To_09003A12-xe7/0/0",
+            "portdata": "GigabitEthernet0/3/0",
+            "portip": "10.218.97.238/30",
+            "portmac": "1c20-db9e-9fd2",
+            "portvlan": "",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 11,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "W",
+            "portdescription": "09003B13-xe0/4/0_To_09003A12-xe7/0/1",
+            "portdata": "GigabitEthernet0/4/0",
+            "portip": "10.218.3.10/30",
+            "portmac": "9835-edb3-cecf",
+            "portvlan": "",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 2,
+            "portid": "P1",
+            "parentnodeid": 12,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "W",
+            "portdescription": "05243C21-xe0/3/0_To_09003A12-xe7/0/2",
+            "portdata": "GigabitEthernet0/3/0",
+            "portip": "10.218.97.170/30",
+            "portmac": "70fd-45e9-ae91",
+            "portvlan": "",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 13,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "W",
+            "portdescription": "05699C21-xe0/3/0_To_09003A12-xe7/0/3",
+            "portdata": "GigabitEthernet0/3/0",
+            "portip": "10.218.97.250/30",
+            "portmac": "1c20-db9e-9e6e",
+            "portvlan": "",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "P1",
+            "parentnodeid": 14,
+            "portaggregation": "",
+            "portadminstatus": "UP",
+            "portstatus": "UP",
+            "portposition": "W",
+            "portdescription": "04114C21-xe0/4/0_To_09003A12-xe7/0/4",
+            "portdata": "GigabitEthernet0/4/0",
+            "portip": "10.218.98.213/30",
+            "portmac": "70fd-45e6-2da0",
+            "portvlan": "",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        }
+    ]
+}

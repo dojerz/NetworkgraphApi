@@ -7,13 +7,16 @@ namespace NetworkgraphApi.Data
 {
     public class Graph
     {
-        public Nodelist[] nodeList { get; set; }
-        public Edgelist[] edgeList { get; set; }
-        public Graphbounds graphBounds { get; set; }
-        public bool isGrouped { get; set; }
+        // Node-ok listája
+        public node[] nodelist { get; set; }
+        // Nodeok-ok közötti kapcsolatok listája
+        public nodeconnection[] connectionlist { get; set; }
+        // Node-ok portjainak a listája
+        public nwnodeport[] portlist { get; set; }
+        public bounds bounds { get; set; }
     }
 
-    public class Graphbounds
+    public class bounds
     {
         public int x { get; set; }
         public int y { get; set; }
@@ -21,79 +24,75 @@ namespace NetworkgraphApi.Data
         public float h { get; set; }
     }
 
-    public class Nodelist
+    public class node
     {
-        public Tag tag { get; set; }
-        public Layout layout { get; set; }
-    }
-
-    public class Tag
-    {
+        // Node belső azonosító
+        public string nodeid { get; set; }
+        // Node név
         public string name { get; set; }
+        // IP cím
         public string ip { get; set; }
-        public bool enabled { get; set; }
-        public int type { get; set; }
-        public float load { get; set; }
-        public int id { get; set; }
+        // Hardware típus
+        public string type { get; set; }
+    }
+    public class nodeconnection
+    {
+        // Kapcsolat belső azonosító
+        public string connectionid { get; set; }
+        // Egyik node belső azonosító
+        public string startnodeid { get; set; }
+        // Másik node belső azonosító
+        public string endnodeid { get; set; }
+        // Kiindulási port azonosító
+        public string startportid { get; set; }
+        // Vége port azonosító
+        public string endportid { get; set; }
+        // Kapcsolat leírás
+        public string description { get; set; }
+        // Sávszél
+        public string bandwidth { get; set; }
+        public string duplexity { get; set; }
+        public string media { get; set; }
+        public string subnet { get; set; }
+        public string other_1 { get; set; }
+        public string other_2 { get; set; }
+        public string other_3 { get; set; }
+        public string other_4 { get; set; }
+        public string other_5 { get; set; }
+        public string other_6 { get; set; }
+        public string other_7 { get; set; }
+        public string other_8 { get; set; }
+        public string other_9 { get; set; }
+        public string other_10 { get; set; }
     }
 
-    public class Layout
+    public class nwnodeport
     {
-        public float x { get; set; }
-        public float y { get; set; }
-        public int w { get; set; }
-        public int h { get; set; }
-    }
-
-    public class Edgelist
-    {
-        public Tag1 tag { get; set; }
-        public int source { get; set; }
-        public int target { get; set; }
-        public Sourceport sourcePort { get; set; }
-        public Targetport targetPort { get; set; }
-        public object[] bends { get; set; }
-    }
-
-    public class Tag1
-    {
-        public Source source { get; set; }
-        public Target target { get; set; }
-        public float load { get; set; }
-        public object hasForwardPacket { get; set; }
-        public object hasBackwardPacket { get; set; }
-        public int id { get; set; }
-    }
-
-    public class Source
-    {
-        public string name { get; set; }
-        public string ip { get; set; }
-        public bool enabled { get; set; }
-        public int type { get; set; }
-        public float load { get; set; }
-        public int id { get; set; }
-    }
-
-    public class Target
-    {
-        public string name { get; set; }
-        public string ip { get; set; }
-        public bool enabled { get; set; }
-        public int type { get; set; }
-        public float load { get; set; }
-        public int id { get; set; }
-    }
-
-    public class Sourceport
-    {
-        public float x { get; set; }
-        public float y { get; set; }
-    }
-
-    public class Targetport
-    {
-        public float x { get; set; }
-        public float y { get; set; }
+        // Port azonosító pl. P1,P2,P3..
+        public string portid { get; set; }
+        // A portot trtalmazó node belső azonosítója
+        public string parentnodeid { get; set; }
+        public string portadminstatus { get; set; }
+        // Port működése: UP,DOWN, egyéb
+        public string portstatus { get; set; }
+        // Port pozíciója a node-on, N,W,S,E - s1,s2,s3,s4 analógiára
+        public string portposition { get; set; }
+        // Port megjegyzés
+        public string portdescription { get; set; }
+        //Port egyéb adat
+        public string portdata { get; set; }
+        public string portip { get; set; }
+        public string portmac { get; set; }
+        public string portvlan { get; set; }
+        public string other_1 { get; set; }
+        public string other_2 { get; set; }
+        public string other_3 { get; set; }
+        public string other_4 { get; set; }
+        public string other_5 { get; set; }
+        public string other_6 { get; set; }
+        public string other_7 { get; set; }
+        public string other_8 { get; set; }
+        public string other_9 { get; set; }
+        public string other_10 { get; set; }
     }
 }
