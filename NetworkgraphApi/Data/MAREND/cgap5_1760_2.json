@@ -1,0 +1,187 @@
+{
+    "nodelist": [
+        [
+            {
+                "layerid": 0,
+                "nodeid": 0,
+                "name": "cgap5_1760",
+                "ip": "192.168.199.2",
+                "type": "CISCO1760",
+                "neighborids": [
+                    1
+                ]
+            }
+        ],
+        [
+            {
+                "layerid": 1,
+                "nodeid": 1,
+                "name": "cgapsw2_3560",
+                "ip": "10.10.10.4",
+                "type": "WS-C3560V2-24TS-S",
+                "neighborids": [
+                    2,
+                    0
+                ]
+            }
+        ],
+        [
+            {
+                "layerid": 2,
+                "nodeid": 2,
+                "name": "cgap2_1760",
+                "ip": "192.168.199.5",
+                "type": "CISCO1760",
+                "neighborids": [
+                    1
+                ]
+            }
+        ]
+    ],
+    "connectionlist": [
+        {
+            "connectionid": 1,
+            "startnodeid": 0,
+            "endnodeid": 1,
+            "trunk": false,
+            "description": "Towards cgapsw2_1760 -- Towards cgap5_1760",
+            "bandwidth": "100Mb/s - 100Mb/s",
+            "duplexity": "Full-dpx",
+            "media": "copper - copper",
+            "subnet": "192.168.219.0/30",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 5,
+            "startnodeid": 0,
+          "endnodeid": 1,
+            "trunk": false,
+            "description": " -- Towards cgap5_1760",
+            "bandwidth": "100Mb/s - 100Mb/s",
+            "duplexity": "Full-dpx",
+            "media": "copper - copper",
+            "subnet": "192.168.219.0/30",
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        }
+    ],
+    "portlist": [
+        {
+            "connectionid": 1,
+            "portid": "",
+            "parentnodeid": 0,
+            "portaggregation": "",
+            "portadminstatus": "up",
+            "portstatus": "up",
+            "portposition": "",
+            "portdescription": "Towards cgapsw2_1760",
+            "portdata": "FastEthernet0/3",
+            "portip": "",
+            "portmac": "0015.fac4.2f1a",
+            "portvlan": "219",
+            "neinodeid": 1,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 5,
+            "portid": "",
+            "parentnodeid": 0,
+            "portaggregation": "",
+            "portadminstatus": "up",
+            "portstatus": "up",
+            "portposition": "",
+            "portdescription": "",
+            "portdata": "Vlan219",
+            "portip": "192.168.219.2/30",
+            "portmac": "0014.a820.2d8c",
+            "portvlan": "219",
+            "neinodeid": 1,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 1,
+            "portid": "",
+            "parentnodeid": 1,
+            "portaggregation": "",
+            "portadminstatus": "up",
+            "portstatus": "up",
+            "portposition": "",
+            "portdescription": "Towards cgap5_1760",
+            "portdata": "FastEthernet0/4",
+            "portip": "",
+            "portmac": "a0cf.5ba1.5306",
+            "portvlan": "219",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        },
+        {
+            "connectionid": 5,
+            "portid": "",
+            "parentnodeid": 1,
+            "portaggregation": "",
+            "portadminstatus": "up",
+            "portstatus": "up",
+            "portposition": "",
+            "portdescription": "",
+            "portdata": "Vlan219",
+            "portip": "192.168.219.1/30",
+            "portmac": "a0cf.5ba1.5342",
+            "portvlan": "219",
+            "neinodeid": 0,
+            "other_1": "",
+            "other_2": "",
+            "other_3": "",
+            "other_4": "",
+            "other_5": "",
+            "other_6": "",
+            "other_7": "",
+            "other_8": "",
+            "other_9": "",
+            "other_10": ""
+        }
+    ]
+}
